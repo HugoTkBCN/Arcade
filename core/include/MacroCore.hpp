@@ -1,0 +1,32 @@
+/*
+** EPITECH PROJECT, 2020
+** MacroCore
+** File description:
+** hpp
+*/
+
+#ifndef MACROCORE_HPP
+#define MACROCORE_HPP
+
+#define EXIT_SUCESS 0
+#define EXIT_ERROR 84
+#define EXIT_HELP 1
+
+#define INDEX_SHAPE_MENU 0
+#define INDEX_SHAPE_MENU_SELECT_GAME 11
+#define INDEX_SHAPE_MENU_SELECT_GRAPH 20
+#define INDEX_SHAPE_ENTER_USER_NAME 30
+#define INDEX_SHAPE_USERNAME 31
+#define INDEX_SHAPE_KEYBOARD 40
+
+#define SIZE_TITLE 50
+#define SIZE_SUBTITLE 40
+#define SIZE_TEXT 30
+#define SIZE_COM 20
+#define SIZE_SELECTED 40
+#define SIZE_NOT_SELECTED 30
+#define SIZE_HELP 15
+
+#define MENU_EXITED -1
+
+#endif /* !MACROCORE_HPP */
